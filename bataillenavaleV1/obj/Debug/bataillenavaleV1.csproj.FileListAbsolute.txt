@@ -1,0 +1,11 @@
+C:\Users\marti\source\repos\bataillenavaleV1\bataillenavaleV1\bin\Debug\bataillenavaleV1.exe.config
+C:\Users\marti\source\repos\bataillenavaleV1\bataillenavaleV1\bin\Debug\bataillenavaleV1.exe
+C:\Users\marti\source\repos\bataillenavaleV1\bataillenavaleV1\bin\Debug\bataillenavaleV1.pdb
+C:\Users\marti\source\repos\bataillenavaleV1\bataillenavaleV1\obj\Debug\bataillenavaleV1.csproj.AssemblyReference.cache
+C:\Users\marti\source\repos\bataillenavaleV1\bataillenavaleV1\obj\Debug\bataillenavaleV1.csproj.SuggestedBindingRedirects.cache
+C:\Users\marti\source\repos\bataillenavaleV1\bataillenavaleV1\obj\Debug\bataillenavaleV1.Form1.resources
+C:\Users\marti\source\repos\bataillenavaleV1\bataillenavaleV1\obj\Debug\bataillenavaleV1.Properties.Resources.resources
+C:\Users\marti\source\repos\bataillenavaleV1\bataillenavaleV1\obj\Debug\bataillenavaleV1.csproj.GenerateResource.cache
+C:\Users\marti\source\repos\bataillenavaleV1\bataillenavaleV1\obj\Debug\bataillenavaleV1.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\bataillenavaleV1\bataillenavaleV1\obj\Debug\bataillenavaleV1.exe
+C:\Users\marti\source\repos\bataillenavaleV1\bataillenavaleV1\obj\Debug\bataillenavaleV1.pdb
